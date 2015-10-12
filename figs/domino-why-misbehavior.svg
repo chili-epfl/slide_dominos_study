@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
-   width="549.93848"
-   height="354.66763"
+   inkscape:version="0.91 r13725"
+   width="557.38971"
+   height="355.39761"
    xml:space="preserve"
    sodipodi:docname="domino-why-misbehavior.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -283,15 +283,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1015"
+     inkscape:window-width="2560"
+     inkscape:window-height="1332"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="2.579235"
-     inkscape:cx="414.96823"
-     inkscape:cy="206.84857"
-     inkscape:window-x="1600"
-     inkscape:window-y="0"
+     inkscape:zoom="1.8237946"
+     inkscape:cx="451.14245"
+     inkscape:cy="161.86515"
+     inkscape:window-x="1920"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
      fit-margin-top="0"
@@ -301,11 +301,11 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="domino-why-misbehavior"
-     transform="matrix(1.25,0,0,-1.25,-15.600568,367.67252)"><g
+     transform="matrix(1.25,0,0,-1.25,-13.891531,368.43752)"><g
        id="g12" /><path
        inkscape:connector-curvature="0"
        id="path46"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 209.20005,263.20001 0,-229.713482 m 43,229.713482 0,-229.713482 m 44,229.713482 0,-229.713482 m 43,229.713482 0,-229.713482 m 43.76599,229.713482 0,-229.713482" /><path
        d="m 187.2,41.2 -21,0 0,10 21,0 0,-10 z m 44,26 -65,0 0,10 65,0 0,-10 z m -22,25 -43,0 0,10 43,0 0,-10 z m -22,51 -21,0 0,10 21,0 0,-10 z m 0,26 -21,0 0,10 21,0 0,-10 z m 22,25 -43,0 0,11 43,0 0,-11 z m -22,52 -21,0 0,10 21,0 0,-10 z"
        style="fill:#faa757;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -324,14 +324,14 @@
            inkscape:connector-curvature="0" /></g></g><path
        inkscape:connector-curvature="0"
        id="path88"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 165.80281,33.486541 217.16323,-8e-5" /><path
        inkscape:connector-curvature="0"
        id="path100"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 165.80281,33.486528 8e-5,230.113482" /><text
        id="text112"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="173.11314"
        y="-42.270638"><tspan
@@ -341,7 +341,7 @@
          x="173.11314">1 </tspan></text>
 <text
        id="text126"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="194.82945"
        y="-67.838737"><tspan
@@ -351,7 +351,7 @@
          x="194.82945">3 </tspan></text>
 <text
        id="text140"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="183.97125"
        y="-93.406898"><tspan
@@ -361,7 +361,7 @@
          x="183.97125">2 </tspan></text>
 <text
        id="text154"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="173.11314"
        y="-144.54321"><tspan
@@ -371,7 +371,7 @@
          x="173.11314">1 </tspan></text>
 <text
        id="text168"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="173.11314"
        y="-170.1114"><tspan
@@ -381,7 +381,7 @@
          x="173.11314">1 </tspan></text>
 <text
        id="text182"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="183.97125"
        y="-195.67961"><tspan
@@ -391,7 +391,7 @@
          x="183.97125">2 </tspan></text>
 <text
        id="text196"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="173.11314"
        y="-246.8159"><tspan
@@ -401,7 +401,7 @@
          x="173.11314">1 </tspan></text>
 <text
        id="text210"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="238.48315"
        y="-42.270638"><tspan
@@ -411,7 +411,7 @@
          x="238.48315">5 </tspan></text>
 <text
        id="text224"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="259.97836"
        y="-67.838737"><tspan
@@ -421,7 +421,7 @@
          x="259.97836">3 </tspan></text>
 <text
        id="text238"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="216.54575"
        y="-93.406898"><tspan
@@ -431,7 +431,7 @@
          x="216.54575">1 </tspan></text>
 <text
        id="text252"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="183.97125"
        y="-118.9751"><tspan
@@ -441,7 +441,7 @@
          x="183.97125">2 </tspan></text>
 <text
        id="text266"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="194.82945"
        y="-144.54321"><tspan
@@ -451,7 +451,7 @@
          x="194.82945">1 </tspan></text>
 <text
        id="text280"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="325.12735"
        y="-42.270638"><tspan
@@ -461,7 +461,7 @@
          x="325.12735">3 </tspan></text>
 <text
        id="text294"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="314.26917"
        y="-67.838737"><tspan
@@ -471,7 +471,7 @@
          x="314.26917">2 </tspan></text>
 <text
        id="text308"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="238.26205"
        y="-93.406898"><tspan
@@ -481,7 +481,7 @@
          x="238.26205">1 </tspan></text>
 <text
        id="text322"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="227.40385"
        y="-118.9751"><tspan
@@ -491,7 +491,7 @@
          x="227.40385">2 </tspan></text>
 <text
        id="text336"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="216.54575"
        y="-144.54321"><tspan
@@ -501,7 +501,7 @@
          x="216.54575">1 </tspan></text>
 <text
        id="text350"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="205.68755"
        y="-170.1114"><tspan
@@ -511,7 +511,7 @@
          x="205.68755">2 </tspan></text>
 <text
        id="text364"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="216.54575"
        y="-195.67961"><tspan
@@ -521,7 +521,7 @@
          x="216.54575">1 </tspan></text>
 <text
        id="text378"
-       style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:12px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="183.97125"
        y="-221.24771"><tspan
@@ -531,7 +531,7 @@
          x="183.97125">2 </tspan></text>
 <text
        id="text392"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="162.255"
        y="-10.59991"><tspan
@@ -541,7 +541,7 @@
          x="162.255">0 </tspan></text>
 <text
        id="text406"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="205.6877"
        y="-10.59991"><tspan
@@ -551,7 +551,7 @@
          x="205.6877">2 </tspan></text>
 <text
        id="text420"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="249.1203"
        y="-10.59991"><tspan
@@ -561,7 +561,7 @@
          x="249.1203">4 </tspan></text>
 <text
        id="text434"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="292.55289"
        y="-10.59991"><tspan
@@ -571,7 +571,7 @@
          x="292.55289">6 </tspan></text>
 <text
        id="text448"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="335.9855"
        y="-10.59991"><tspan
@@ -581,7 +581,7 @@
          x="335.9855">8 </tspan></text>
 <text
        id="text462"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="375.87039"
        y="-10.59991"><tspan
@@ -591,37 +591,37 @@
          x="375.87039">10 </tspan></text>
 <text
        id="text476"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="51.330673"
+       x="52.39135"
        y="-40.670521"><tspan
          id="tspan478"
          sodipodi:role="line"
          y="-40.670521"
-         x="51.330673">it is unpredictable </tspan></text>
+         x="52.39135">it is unpredictable </tspan></text>
 <text
        id="text490"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="50.947861"
+       x="51.270256"
        y="-66.238693"><tspan
          id="tspan492"
          sodipodi:role="line"
          y="-66.238693"
-         x="50.947861">technical problem </tspan></text>
+         x="51.270256">technical problem </tspan></text>
 <text
        id="text504"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="12.256454"
+       x="10.063225"
        y="-91.806801"><tspan
          id="tspan506"
          sodipodi:role="line"
          y="-91.806801"
-         x="12.256454">it didn't want to continue </tspan></text>
+         x="10.063225">it didn't want to continue </tspan></text>
 <flowRoot
        transform="matrix(0.8,0,0,-0.8,4.989474,299.6421)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot5615"
        xml:space="preserve"><flowRegion
          id="flowRegion5617"><rect
@@ -632,67 +632,67 @@
            id="rect5619" /></flowRegion><flowPara
          id="flowPara5621" /></flowRoot><text
        id="text518"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="94.410202"
+       x="97.699944"
        y="-117.375"><tspan
          id="tspan520"
          sodipodi:role="line"
          y="-117.375"
-         x="94.410202">no answer </tspan></text>
+         x="97.699944">no answer </tspan></text>
 <text
        id="text532"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="89.557236"
+       x="94.281975"
        y="-142.94321"><tspan
          id="tspan534"
          sodipodi:role="line"
          y="-142.94321"
-         x="89.557236">don't know </tspan></text>
+         x="94.281975">don't know </tspan></text>
 <text
        id="text546"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="53.299423"
+       x="53.758537"
        y="-168.51131"><tspan
          id="tspan548"
          sodipodi:role="line"
          y="-168.51131"
-         x="53.299423">it made a mistake </tspan></text>
+         x="53.758537">it made a mistake </tspan></text>
 <text
        id="text560"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="52.697861"
+       x="52.39135"
        y="-194.0795"><tspan
          id="tspan562"
          sodipodi:role="line"
          y="-194.0795"
-         x="52.697861">it didn't hear / see </tspan></text>
+         x="52.39135">it didn't hear / see </tspan></text>
 <text
        id="text574"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="83.158798"
+       x="86.133537"
        y="-219.64771"><tspan
          id="tspan576"
          sodipodi:role="line"
          y="-219.64771"
-         x="83.158798">it was angry </tspan></text>
+         x="86.133537">it was angry </tspan></text>
 <text
        id="text588"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="89.393173"
+       x="92.586662"
        y="-245.21581"><tspan
          id="tspan590"
          sodipodi:role="line"
          y="-245.21581"
-         x="89.393173">it was tired </tspan></text>
+         x="92.586662">it was tired </tspan></text>
 <text
        id="text602"
-       style="font-size:18px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L-Bold"
+       style="font-variant:normal;font-weight:bold;font-size:18px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="120.20055"
        y="-281.70001"><tspan
@@ -710,7 +710,7 @@
          y="-159.7567"
          x="420.10001"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text626"><tspan
            x="420.10001"
            y="-159.7567"
@@ -726,7 +726,7 @@
          y="-133.98904"
          x="420.1001"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text650"><tspan
            x="420.1001"
            y="-133.98904"
@@ -742,7 +742,7 @@
          y="-108.3284"
          x="420.10001"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text674"><tspan
            x="420.10001"
            y="-108.3284"
@@ -750,11 +750,11 @@
            id="tspan676">disobey </tspan></text>
 </g><path
        d="m 165.80281,263.224 217.16323,-8e-5"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path4231"
        inkscape:connector-curvature="0" /><text
        id="text4229"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        x="395.82373"
        y="-179.91771"
        transform="scale(1,-1)"><tspan

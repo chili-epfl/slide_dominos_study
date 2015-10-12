@@ -12,14 +12,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
-   width="563.23309"
-   height="359.1297"
+   inkscape:version="0.91 r13725"
+   width="570.05402"
+   height="360.89468"
    xml:space="preserve"
    sodipodi:docname="domino-intention.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><pattern
        inkscape:collect="always"
        xlink:href="#Strips1_2"
@@ -636,15 +636,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1015"
+     inkscape:window-width="2560"
+     inkscape:window-height="1332"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.3036536"
-     inkscape:cx="273.43234"
-     inkscape:cy="120.26865"
-     inkscape:window-x="1600"
-     inkscape:window-y="0"
+     inkscape:zoom="1.8436446"
+     inkscape:cx="-10.72546"
+     inkscape:cy="156.31584"
+     inkscape:window-x="1920"
+     inkscape:window-y="54"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
      fit-margin-top="0"
@@ -654,23 +654,23 @@
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="domino-obey"
-     transform="matrix(1.25,0,0,-1.25,-10.275061,387.34622)"><g
+     transform="matrix(1.25,0,0,-1.25,-10.887561,389.14622)"><g
        id="g12" /><path
        inkscape:connector-curvature="0"
        id="path46"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 34.33082,93.000016 329.05745,0 m -329.05745,34.000004 329.05745,0 m -329.05745,33 329.05745,0 m -329.05745,34.00001 329.05745,0 m -329.05745,33.00001 329.05745,0 m -329.05745,33.99998 329.05745,0" /><path
        inkscape:connector-curvature="0"
        id="path88"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 34.97717,59.773086 8e-5,201.227024" /><path
        inkscape:connector-curvature="0"
        id="path100"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.800001,60.000015 4,0 m -4,33.000001 4,0 m -4,34.000004 4,0 m -4,33 4,0 m -4,34.00001 4,0 m -4,33.00001 4,0 m -4,33.99998 4,0" /><path
        inkscape:connector-curvature="0"
        id="path112"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        d="m 34.594934,59.77307 328.793336,-8e-5" /><g
        id="g5380"
        transform="translate(17.6,0)"><path
@@ -693,7 +693,7 @@
          y="-91.064697"
          x="49.936661"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text148"><tspan
            x="49.936661"
            y="-91.064697"
@@ -703,7 +703,7 @@
          y="-138.01759"
          x="53.30344"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text218"><tspan
            x="53.30344"
            y="-138.01759"
@@ -713,7 +713,7 @@
          y="-188.3244"
          x="49.936661"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text288"><tspan
            x="49.936661"
            y="-188.3244"
@@ -737,7 +737,7 @@
          y="-91.064697"
          x="94.046982"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text162"><tspan
            x="94.046982"
            y="-91.064697"
@@ -747,7 +747,7 @@
          y="-141.3714"
          x="97.41375"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text232"><tspan
            x="97.41375"
            y="-141.3714"
@@ -757,7 +757,7 @@
          y="-191.67821"
          x="94.046982"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text302"><tspan
            x="94.046982"
            y="-191.67821"
@@ -769,7 +769,7 @@
          d="m 92.83201,134.01316 16.9261,0 0,-73.923283 -16.9261,0 z"
          id="path5828" /></g><text
        id="text358"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="14.8957"
        y="-54.173"><tspan
@@ -779,7 +779,7 @@
          x="14.8957">0 </tspan></text>
 <text
        id="text372"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="14.8957"
        y="-87.710899"><tspan
@@ -789,7 +789,7 @@
          x="14.8957">5 </tspan></text>
 <text
        id="text386"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="7.8000488"
        y="-121.2487"><tspan
@@ -799,7 +799,7 @@
          x="7.8000488">10 </tspan></text>
 <text
        id="text400"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="7.8000488"
        y="-154.7865"><tspan
@@ -809,7 +809,7 @@
          x="7.8000488">15 </tspan></text>
 <text
        id="text414"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="7.8000488"
        y="-188.3243"><tspan
@@ -819,7 +819,7 @@
          x="7.8000488">20 </tspan></text>
 <text
        id="text428"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="7.8000488"
        y="-221.8622"><tspan
@@ -829,7 +829,7 @@
          x="7.8000488">25 </tspan></text>
 <text
        id="text442"
-       style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="7.8000488"
        y="-255.39999"><tspan
@@ -839,7 +839,7 @@
          x="7.8000488">30 </tspan></text>
 <text
        id="text526"
-       style="font-size:14px;font-variant:normal;font-weight:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="73.189789"
        y="-40.269226"><tspan
@@ -849,24 +849,26 @@
          x="73.189789">ﬁrst</tspan><tspan
          sodipodi:role="line"
          y="-22.769226"
-         x="74.939789"
+         x="74.830414"
          id="tspan5367">interview </tspan></text>
 <g
        id="g544"
        transform="translate(29.455677,-1.8409798)"><text
          y="-299.0054"
-         x="9.8483849"
+         x="87.44709"
          transform="scale(1,-1)"
-         style="font-size:18px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L-Bold"
+         style="font-variant:normal;font-weight:bold;font-size:18px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text554"><tspan
            x="9.8483849"
            y="-299.0054"
            sodipodi:role="line"
-           id="tspan5423">(a) Does Ranger</tspan><tspan
+           id="tspan5423"
+           style="text-anchor:middle;text-align:center">Does Ranger</tspan><tspan
            x="9.8483849"
            y="-276.5054"
            sodipodi:role="line"
-           id="tspan5443">always obey to you?</tspan></text>
+           id="tspan5443"
+           style="text-anchor:middle;text-align:center">always obey to you?</tspan></text>
 </g><g
        id="g5391"
        transform="translate(-184.14,-4.9092796)"><path
@@ -885,7 +887,7 @@
          y="-65.74118"
          x="433.51062"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text148-7"><tspan
            x="433.51062"
            y="-65.74118"
@@ -895,7 +897,7 @@
          y="-141.03815"
          x="430.06384"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text190-8"><tspan
            x="430.06384"
            y="-141.03815"
@@ -905,7 +907,7 @@
          y="-219.60895"
          x="433.51062"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text260-2"><tspan
            x="433.51062"
            y="-219.60895"
@@ -933,7 +935,7 @@
          y="-65.74118"
          x="477.94095"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text162-9"><tspan
            x="477.94095"
            y="-65.74118"
@@ -943,7 +945,7 @@
          y="-124.66925"
          x="474.49417"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text204-9"><tspan
            x="474.49417"
            y="-124.66925"
@@ -953,7 +955,7 @@
          y="-203.24005"
          x="477.94095"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text274-8"><tspan
            x="477.94095"
            y="-203.24005"
@@ -965,18 +967,20 @@
          d="m 472.74343,78.196096 17.9233,0 0,-12.880373 -17.9233,0 z"
          id="path5828-9-9" /></g><text
        id="text526-6"
-       style="font-size:18px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L-Bold"
+       style="font-variant:normal;font-weight:bold;font-size:18px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
-       x="219.72446"
+       x="293.60349"
        y="-297.38498"><tspan
          id="tspan528-3"
          sodipodi:role="line"
          y="-297.38498"
-         x="219.72446">(b) Could Ranger </tspan><tspan
+         x="219.72446"
+         style="text-anchor:middle;text-align:center">Could Ranger </tspan><tspan
          sodipodi:role="line"
          y="-274.88498"
          x="219.72446"
-         id="tspan5437">do something silly?</tspan></text>
+         id="tspan5437"
+         style="text-anchor:middle;text-align:center">do something silly?</tspan></text>
 <g
        id="g5447"
        transform="translate(-21.478095,168.61741)"><path
@@ -987,7 +991,7 @@
          y="-18.221802"
          x="423.12204"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text550"><tspan
            x="423.12204"
            y="-18.221802"
@@ -1003,7 +1007,7 @@
          y="6.6923985"
          x="423.12204"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text574"><tspan
            x="423.12204"
            y="6.6923985"
@@ -1019,7 +1023,7 @@
          y="31.606598"
          x="423.12198"
          transform="scale(1,-1)"
-         style="font-size:14px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+         style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text598"><tspan
            x="423.12198"
            y="31.606598"
@@ -1033,13 +1037,13 @@
        y="-40.269226"
        x="135.06021"
        transform="scale(1,-1)"
-       style="font-size:14px;font-variant:normal;font-weight:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text5413"><tspan
          id="tspan5417"
          x="135.06021"
          y="-40.269226"
          sodipodi:role="line">second</tspan><tspan
-         x="136.81021"
+         x="136.70084"
          y="-22.769226"
          sodipodi:role="line"
          id="tspan5421">interview </tspan></text>
@@ -1047,19 +1051,19 @@
        y="-40.269226"
        x="253.78252"
        transform="scale(1,-1)"
-       style="font-size:14px;font-variant:normal;font-weight:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text5425"><tspan
          x="253.78252"
          y="-40.269226"
          sodipodi:role="line"
          id="tspan5427">ﬁrst</tspan><tspan
          id="tspan5429"
-         x="255.53252"
+         x="255.42314"
          y="-22.769226"
          sodipodi:role="line">interview </tspan></text>
 <text
        id="text5431"
-       style="font-size:14px;font-variant:normal;font-weight:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+       style="font-variant:normal;font-weight:normal;font-size:14px;font-family:FlamaBook;-inkscape-font-specification:FlamaBook;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="scale(1,-1)"
        x="315.65289"
        y="-40.269226"><tspan
@@ -1070,9 +1074,9 @@
          id="tspan5435"
          sodipodi:role="line"
          y="-22.769226"
-         x="317.40289">interview </tspan></text>
+         x="317.29352">interview </tspan></text>
 <path
        d="m 363.41694,59.773086 8e-5,201.227024"
-       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        id="path5968"
        inkscape:connector-curvature="0" /></g></svg>
