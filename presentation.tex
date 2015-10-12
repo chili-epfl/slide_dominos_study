@@ -61,12 +61,12 @@ EPFL}}
 \end{frame}
 
 \begin{frame}{Two hypotheses}
-\begin{itemize}
-    \item<1-> 1/ {\bf A robot that mis-behaves from time to time is more
+\begin{enumerate}
+    \item<1-> {\bf A robot that mis-behaves from time to time is more
         engaging}
-    \item<2-> 2/ {\bf The way the robot ``mis-behaves'' betrays its cognitive
+    \item<2-> {\bf The way the robot ``mis-behaves'' betrays its cognitive
     capabilities}
-\end{itemize}
+\end{enumerate}
 
 \only<3>{
 If that's indeed the case, we gain an actionable technique to (1) sustain
@@ -79,16 +79,16 @@ engagement, (2) influence on cognitive attributions.
 \section{Unexpected behaviour, you said?}
 
 \begin{frame}{Design of three behaviours}
-\begin{itemize}
-    \item 1/ the robot get {\bf LOST}, for no visible reason;
-    \item 2/ the robot {\bf DISOBEY};
-    \item 3/ the robot makes a {\bf MISTAKE}.
-\end{itemize}
+\begin{enumerate}
+    \item the robot get {\bf LOST}, for no visible reason;
+    \item the robot {\bf DISOBEY};
+    \item the robot makes a {\bf MISTAKE}.
+\end{enumerate}
 \end{frame}
 
 \begin{frame}{LOST condition}
     \centering
-    Induce the perception of a \emph{contingent malfunction} \\
+    ...induces the perception of a \emph{contingent malfunction} \\
     (My robot has a {\bf bug}!)
     \par
     \includegraphics[width=0.6\textwidth]{domino-lost}
@@ -100,7 +100,7 @@ engagement, (2) influence on cognitive attributions.
 
 \begin{frame}{DISOBEY condition}
     \centering
-    Induce the perception of a robot's {\bf own will}
+    ...induces the perception of a robot's {\bf own will}
     \par
     \includegraphics[width=0.5\textheight]{domino-disobey}
     \par
@@ -111,32 +111,77 @@ engagement, (2) influence on cognitive attributions.
 
 \begin{frame}{MISTAKE condition}
     \centering
-    The robot goes wrong, but recognizes the error and repairs.\\
-    {\bf To err is human}! The robot is aware of its own state (introspection)
-    and of the expected state of interaction.
+    \only<1>{The robot goes wrong, but recognizes the error and repairs.}
+    \only<2->{{\bf To err is human}. And the robot is aware of its own state (introspection)
+    and of the expected state of interaction.}
     \par
     \includegraphics[width=0.5\textheight]{domino-mistake}
     \par
-    \only<2>{
+    \only<3>{
         {\bf Hypothesis}: decreased attribution of human-likeness
+    }
+\end{frame}
+
+\section{Experimental Procedure:\newline the Dominos task}
+
+\begin{frame}{The Dominos task}
+One child has to align the dominos, and at each turn, he/she ask for the next
+one.
+
+But the dominos are hidden in the room: the second child needs to find the
+requested one, and give it to the robot (which is the only one allowed to cross
+the dangerous river!)
+
+\end{frame}
+
+\begin{frame}{Correct behaviour}
+    \only<1> {
+    \centering
+        \includegraphics[width=0.9\textwidth]{domino-setup}
+    }
+    \only<2> {
+    \centering
+        \video{0.8\textwidth}{videos/correct.mp4}
+    }
+    \only<3> {
+        Note the non-verbal interaction cues:
+        \begin{itemize}
+            \item light patterns (yellow blink: ``Give me a domino!'', green pattern:
+                ``I got it!'')
+            \item sounds (different sounds for ``I got it!'' or ``Domino removed!'')
+        \end{itemize}
+    }
+\end{frame}
+
+\begin{frame}{LOST behaviour}
+    \centering
+    \only<1> {
+        \includegraphics[width=0.9\textwidth]{domino-setup-lost}
+    }
+    \only<2> {
+        \video{0.8\textwidth}{videos/lost.mp4}
+    }
+
+\end{frame}
+
+\begin{frame}{DISOBEY behaviour}
+        \centering
+        \includegraphics[width=0.9\textwidth]{domino-setup-disobey}
+\end{frame}
+
+\begin{frame}{MISTAKE behaviour}
+
+    \centering
+    \only<1>{
+        \includegraphics[width=0.9\textwidth]{domino-setup-mistake}
+    }
+    \only<2> {
+        \video{0.8\textwidth}{videos/mistake.mp4}
     }
 \end{frame}
 
 
 
-\imageframe{domino-mistake}
-
-\begin{frame}{Technical Challenges}
-    \begin{itemize}
-        \item<1-> Get a child-proof robot to write...
-        \item<2-> ...badly...
-        \item<3-> Make it able to learn...
-        \item<4-> ...with the help of children
-    \end{itemize}
-\end{frame}
-
-% teaching by learning
-\imageframe{domino-setup}
 
 % synchronized writing on a tablet
 
