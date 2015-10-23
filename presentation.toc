@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{The activity}{3}{0}{1}
+\beamer@sectionintoc {2}{Unexpected behaviour, you said?}{5}{0}{2}
+\beamer@sectionintoc {3}{What happen when a robot does not obey?}{9}{0}{3}
+\beamer@sectionintoc {4}{Analysis}{14}{0}{4}
+\beamer@sectionintoc {5}{Take home message(s)}{28}{0}{5}

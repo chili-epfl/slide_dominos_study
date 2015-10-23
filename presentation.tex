@@ -9,7 +9,7 @@
 \usepackage{graphicx}
 \usepackage{subfigure}
 \usepackage{multicol}
-
+\usepackage{color}
 \usepackage{tabularx,ragged2e}
 \usepackage{booktabs}
 
@@ -53,12 +53,60 @@ EPFL}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%\fullbackground{cheeky-ranger}
+\begin{frame}[plain]
+
+\setbeamercolor{hriSec1Demo}{fg=white}
+\begin{beamercolorbox}[wd=\linewidth,ht=6ex,dp=0.7ex]{hriSec1Demo}
+    \textbf{Ranger}\\
+    \scriptsize
+    {\tt designed to encourage children to tidy up their room}\\
+\end{beamercolorbox}
+    \vfill
+
+\end{frame}
+
+% frame for "why this study ?"
+
+\section{The activity}
+
+\begin{frame}{Dominos game}
+    \only<1> {
+    \centering
+        \includegraphics[width=0.9\textwidth]{domino-setup}
+    }
+\end{frame}
+
+\section{Unexpected behaviour, you said?}
+
+
+\begin{frame}{LOST condition}
+    \centering
+    \only<1> {
+        \includegraphics[width=0.9\textwidth]{domino-setup-lost}
+    }
+\end{frame}
+
+\begin{frame}{DISOBEY condition}
+        \centering
+        \includegraphics[width=0.9\textwidth]{domino-setup-disobey}
+\end{frame}
+
+\begin{frame}{MISTAKE condition}
+
+    \centering
+    \only<1>{
+        \includegraphics[width=0.9\textwidth]{domino-setup-mistake}
+    }
+\end{frame}
+
+%\fullbackground{}
 \section{What happen when a robot does not obey?}
 
-\begin{frame}{No, I don't want your tile!}
-    \centering
-    \video{0.8\textwidth}{videos/disobey.mp4}
-\end{frame}
+%\begin{frame}{No, I don't want your tile!}
+%    \centering
+%    \video{0.8\textwidth}{videos/disobey.mp4}
+%\end{frame}
 
 \begin{frame}{Two hypotheses}
 \begin{enumerate}
@@ -76,120 +124,21 @@ engagement, (2)~influence on cognitive attributions.
 \end{frame}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Unexpected behaviour, you said?}
 
-\begin{frame}{Design of three behaviours}
-\begin{enumerate}
-    \item the robot get {\bf LOST}, for no visible reason;
-    \item the robot {\bf DISOBEY};
-    \item the robot makes a {\bf MISTAKE}.
-\end{enumerate}
-\end{frame}
 
-\begin{frame}{LOST condition}
-    \centering
-    ...induces the perception of a \emph{contingent malfunction} \\
-    (My robot has a {\bf bug}!)
-    \par
-    \includegraphics[width=0.6\textwidth]{domino-lost}
-    \par
-    \uncover<2>{
-        {\bf Hypothesis}: decreased attribution of human-likeness
-    }
-\end{frame}
-
-\begin{frame}{DISOBEY condition}
-    \centering
-    ...induces the perception of a robot's {\bf own will}
-    \par
-    \includegraphics[width=0.5\textheight]{domino-disobey}
-    \par
-    \uncover<2>{
-        {\bf Hypothesis}: increased attribution of human-likeness
-    }
-\end{frame}
-
-\begin{frame}{MISTAKE condition}
-    \centering
-    \only<1>{The robot goes wrong, but recognizes the error and repairs.}
-    \only<2->{{\bf To err is human}. And the robot is aware of its own state (introspection)
-    and of the expected state of interaction.}
-    \par
-    \includegraphics[width=0.5\textheight]{domino-mistake}
-    \par
-    \uncover<3>{
-        {\bf Hypothesis}: increased attribution of human-likeness
-    }
-\end{frame}
-
-\section{Experimental Procedure:\newline the Dominos task}
-
-\begin{frame}{The Dominos task}
-One child has to align the dominos, and at each turn, he/she ask for the next
-one.
-
-But the dominos are hidden in the room: the second child needs to find the
-requested one, and give it to the robot (which is the only one allowed to cross
-the dangerous river!)
-
-\end{frame}
-
-\begin{frame}{Correct behaviour}
-    \only<1> {
-    \centering
-        \includegraphics[width=0.9\textwidth]{domino-setup}
-    }
-    \only<2> {
-    \centering
-        \video{0.8\textwidth}{videos/correct.mp4}
-    }
-    \only<3> {
-        Note the non-verbal interaction cues:
-        \begin{itemize}
-            \item light patterns (yellow blink: ``Give me a domino!'', green pattern:
-                ``I got it!'')
-            \item sounds (different sounds for ``I got it!'' or ``Domino removed!'')
-        \end{itemize}
-    }
-\end{frame}
-
-\begin{frame}{LOST condition}
-    \centering
-    \only<1> {
-        \includegraphics[width=0.9\textwidth]{domino-setup-lost}
-    }
-    \only<2> {
-        \video{0.8\textwidth}{videos/lost.mp4}
-    }
-
-\end{frame}
-
-\begin{frame}{DISOBEY condition}
-        \centering
-        \includegraphics[width=0.9\textwidth]{domino-setup-disobey}
-\end{frame}
-
-\begin{frame}{MISTAKE condition}
-
-    \centering
-    \only<1>{
-        \includegraphics[width=0.9\textwidth]{domino-setup-mistake}
-    }
-    \only<2> {
-        \video{0.8\textwidth}{videos/mistake.mp4}
-    }
-\end{frame}
 
 \begin{frame}{The experiment}
     \begin{itemize}
-        \item<1-> Wizard-of-Oz protocol;
-        \item<2-> 13 pairs of children, 4-5 years old;
-        \item<3-> Between subject: each pair sees one type of mis-behaviour;
-        \item<4-> 14 turns per pair, alterning correct behaviours with
+        \item 13 pairs of children, 4-5 years old;
+        \item Between subject: each pair sees one type of mis-behaviour;
+        \item 14 turns per pair, alterning correct behaviours with
             mis-behaviours -- 14 min per group in average;
-        \item<5-> Interactions video-recorded and annotated;
-        \item<6-> Two interviews, in the middle of the experiment and at the
+        \item Interactions video-recorded and annotated;
+        \item Two interviews, in the middle of the experiment and at the
             end.
+    \begin{center}
+    	\includegraphics[width=\textwidth]{domino-time}
+    \end{center}
     \end{itemize}
 \end{frame}
 
@@ -203,19 +152,18 @@ the dangerous river!)
     \end{itemize}
 \end{frame}
 
-\imageframe{interactions}
 
 \begin{frame}{Behaviour towards the robot}
 
     Manual annotation of the video records:
     \begin{itemize}
-        \item Touching the robot;
-        \item Talking to the robot;
-        \item Showing objects to the robot;
-        \item Mis-using/mis-behaving with the robot;
-        \item Looking at the experimenter (as a measure of ``what happen? what's
+        \item {\bf Touching} the robot;
+        \item {\bf Talking} to the robot;
+        \item {\bf Showing objects} to the robot;
+        \item {\bf Mis-using/mis-behaving} with the robot;
+        \item {\bf Looking at the experimenter} (as a measure of ``what happen? what's
             wrong with the robot?'');
-        \item Gesturing in front of the robot (waving the hand, etc.)
+        \item {\bf Gesturing} in front of the robot (waving the hand, etc.)
     \end{itemize}
 \end{frame}
 
@@ -237,19 +185,8 @@ the dangerous river!)
 
 \end{frame}
 
+
 \begin{frame}{Perception of the robot: Interviews}
-
-    \begin{itemize}
-        \item<1-> One interview after familiarization, but before introducing
-            mis-behaviours;
-        \item<2-> One interview at the end;
-        \item<3-> Framed as open-ended, semi-structured, ``informal'' discussions
-            (interviewing 4-5 years old is a fun challenge!).
-    \end{itemize}
-
-\end{frame}
-
-\begin{frame}{Constructs and Questions}
 \scriptsize
     \begin{multicols}{2}
     \begin{table}[]
@@ -362,7 +299,7 @@ the dangerous river!)
     \begin{center}
     \includegraphics[height=0.6\textheight]{domino-intention}
     \end{center}
-    \uncover<2->{Children {\bf do not seem to attribute much intentionality} to the
+    \uncover<2->{Children {\bf do not seem to attribute more intentionality} to the
     robot, irrespective of the type of mis-behaviour (the robot ``always
     obey'').}
     \uncover<3>{Interestingly, the children did nonetheless ascribe perceptual cognitive capabilities
@@ -389,90 +326,14 @@ If that's indeed the case, we gain an actionable technique to (1)~sustain
 engagement, (2)~influence on cognitive attributions.
 \end{frame}
 
-\begin{frame}{Mis-behaviours and cognitive ascription}
 
-    \only<1>{
-    Our design relies on the assumption of an {\bf interplay between observed
-    mis-behaviours and cognitive ascriptions by the user onto the robot}, namely:
-    }
-
-    \begin{center}
-    \begin{table}[]
-        \begin{tabularx}{\linewidth}{p{2.5cm}p{0.7\linewidth}}
-
-    \toprule
-    {\bf Observation} & {\bf Interpretation} \tabularnewline
-    \midrule
-    mechanical malfunction (bugs) & more machine-like;\newline 
-                                    less cognitive ascriptions \\
-
-    \midrule
-    disobeying & explicit intentionality;\newline 
-                 more human-like; \newline 
-                 more cognitive ascriptions \\
-
-    \midrule
-    error recovery & the robot is fallible, recognizes it, and recover; \newline
-                     more human-like; \newline
-                     more cognitive ascriptions\\
-    \bottomrule
-    \end{tabularx}
-    \end{table}
-
-    \only<2>{
-        {\bf These conditions were not recognized by the children: too young?
-            robot's behaviours ill designed? wrong measure?}
-    }
-    \only<3>{
-        {\bf Nonetheless a design to explore!}
-    }
-    \end{center}
-\end{frame}
-
-%\begin{frame}{Typology of Unexpected behaviours}
-%    \begin{center}
-%    \begin{tabular}{  >{\centering\arraybackslash}m{3cm} | >{\centering\arraybackslash}m{2cm} | >{\centering\arraybackslash}m{2cm} }
-%        & Not planned by the robot & Planned by the robot \\ \hline
-%        Perceived as non-intentional & Class {\bf I}  & Class {\bf IIIa}  \\ \hline
-%        Perceived as intentional     & Class {\bf IIIb} & Class {\bf II} 
-%    \end{tabular}
-%    \end{center}
-%
-%    \uncover<2->{Unexpected behaviors may be intentional (the robot has planned
-%        the behavior) or not (typically, a failure: misdetection, bug,...).
-%    }
-%    \uncover<3>{
-%        Independently, the behavior may
-%        be {\bf perceived} by the user {\bf as intentional} or not.
-%    }
-%\end{frame}
-
-\begin{frame}{Behaviour vs Perception?}
-    \centering
-    Any relation between the behavioural and perceptual measurements?
-
-    \uncover<2>{We can compute for each pair an ``anthropomorphic perception'' score based on
-    the interviews (cf paper), and...}
-\end{frame}
 
 {
 \fullbackground{ranger-background.jpg}
-\begin{frame}{Anthropomorphism != Engagement}
-
-\begin{figure}
-    \hspace*{5cm}\includegraphics[width=0.6\textwidth]{domino-correlation}
-\end{figure}
-\end{frame}
-}
-
-
-
-{
-\fullbackground{cheeky-ranger}
 \begin{frame}[plain]
 
 \setbeamercolor{hriSec1Demo}{fg=white}
-\begin{beamercolorbox}[wd=\linewidth,ht=6ex,dp=0.7ex]{hriSec1Demo}
+\begin{beamercolorbox}[wd=\linewidth,ht=45ex,dp=10ex]{hriSec1Demo}
     \textbf{Thank you!}\\
     \scriptsize
     {\tt alexis.jacq@epfl.ch}\\
